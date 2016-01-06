@@ -1,0 +1,29 @@
+ ~ BytesMessage.cs				// Ajouter commentaires
+ X Connection.cs
+ X ConnectionFactory.cs
+ X ConnectionMetaData.cs
+ X Destination.cs
+ X InitialContext.cs
+ X MapMessage.cs
+ X Message.cs
+ ~ MessageConsumer.cs			// Ajouter commentaires
+ ~ MessageProducer.cs			// Ajouter commentaires
+ ~ MessageProperties.cs			// Ajouter commentaires
+ X ObjectMessage.cs
+ X Queue.cs
+ ~ QueueBrowser.cs				// Ajouter commentaires
+ ~ Session.cs					// Ajouter commentaires
+ X StreamMessage.cs
+ X TemporaryQueue.cs
+ X TemporaryTopic.cs
+ X TextMessage.cs
+ X Topic.cs
+ ? Util\Dispatcher.cs
+ X Util\ExceptionUtil.cs
+ X Util\IntrospectionSupport.cs
+ X Util\UriAttributeAttribute.cs
+ X Util\XMSConvert.cs
+ X Util\XMSEnum.cs
+
+
+Temporary Queue / Topic
